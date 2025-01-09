@@ -1,0 +1,7 @@
+tests\LanguageCheck.class
+pageObjects\HomePage.class
+tests\ScrapingOpinionTest.class
+tests\TransalteAndAnalyze.class
+tests\BaseTest.class
+pageObjects\OpinionPage.class
+utils\TranslationUtil.class

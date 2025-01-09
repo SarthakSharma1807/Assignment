@@ -1,0 +1,199 @@
+12:57:25.853 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.0.0
+12:57:25.864 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:57:26.509 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:57:26.511 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\sarth\Desktop\Assignment\testing\browserstack.yml
+12:57:26.667 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 18, column 1:
+    	    osVersion: 10
+    ^
+.
+12:57:26.687 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:57:26.696 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+12:57:27.287 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.startBrowserStackAgent(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+12:57:56.567 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.0.0
+12:57:56.576 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:57:57.155 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:57:57.157 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\sarth\Desktop\Assignment\testing\browserstack.yml
+12:57:57.294 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 18, column 1:
+    	    osVersion: 10
+    ^
+.
+12:57:57.312 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:57:57.321 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+12:57:57.872 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.startBrowserStackAgent(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+12:59:18.025 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.0.0
+12:59:18.033 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+12:59:18.553 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+12:59:18.554 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\sarth\Desktop\Assignment\testing\browserstack.yml
+12:59:18.699 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 18, column 1:
+    	osVersion: 10
+    ^
+.
+12:59:18.719 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:59:18.728 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+12:59:19.259 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.startBrowserStackAgent(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+13:01:19.181 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.0.0
+13:01:19.188 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:01:19.710 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+13:01:19.711 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\sarth\Desktop\Assignment\testing\browserstack.yml
+13:01:19.831 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 18, column 1:
+    	osVersion: 10
+    ^
+.
+13:01:19.849 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:01:19.857 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+13:01:20.376 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.startBrowserStackAgent(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+13:05:02.594 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.0.0
+13:05:02.601 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:05:03.100 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+13:05:03.102 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\sarth\Desktop\Assignment\testing\browserstack.yml
+13:05:03.237 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 18, column 1:
+    	osVersion: 10
+    ^
+.
+13:05:03.256 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:05:03.263 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+13:05:03.768 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.startBrowserStackAgent(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+13:07:07.682 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.0.0
+13:07:07.689 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:07:08.184 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+13:07:08.185 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\sarth\Desktop\Assignment\testing\browserstack.yml
+13:07:08.308 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 18, column 1:
+    	osVersion: 10
+    ^
+.
+13:07:08.327 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:07:08.337 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+13:07:08.842 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.startBrowserStackAgent(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+13:08:20.640 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.0.0
+13:08:20.649 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:08:21.142 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+13:08:21.167 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\sarth\Desktop\Assignment\testing\browserstack.yml
+13:08:21.315 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 18, column 1:
+    	osVersion: 10
+    ^
+.
+13:08:21.335 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:08:21.342 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+13:08:21.840 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.startBrowserStackAgent(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+13:15:13.372 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.0.0
+13:15:13.380 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:15:13.922 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+13:15:13.923 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\sarth\Desktop\Assignment\testing\browserstack.yml
+13:15:16.381 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:15:16.463 [main] INFO  c.b.config.BrowserStackConfig - Setting value of testObservability as specified in your browserstack.yml to true
+13:15:18.343 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:15:23.554 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+13:15:24.854 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:15:37.653 [main] INFO  com.browserstack.LocalFactory - BrowserStack Local Started Successfully.
+13:17:33.156 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/yip8vdbxe8fltyocgayy17uikkzoknqddidjsab8 to view build report, insights, and many more debugging information all at one place!
+
+13:17:33.156 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:17:41.166 [Thread-0] INFO  c.browserstack.utils.UtilityMethods - View build on BrowserStack dashboard: https://automate.browserstack.com/dashboard/v2/builds/3c186eb1c6be7bfd5db5c4e2f46c9247e4be5796
+13:17:41.167 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+13:35:57.777 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.0.0
+13:35:57.785 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+13:35:58.277 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {}
+13:35:58.278 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\sarth\Desktop\Assignment\testing\browserstack.yml
+13:35:58.414 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - while scanning for the next token
+found character '\t(TAB)' that cannot start any token. (Do not use \t(TAB) for indentation)
+ in 'string', line 12, column 1:
+    	browserVersion: 120.0
+    ^
+.
+13:35:58.432 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:35:58.440 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+13:35:58.944 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.startBrowserStackAgent(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
