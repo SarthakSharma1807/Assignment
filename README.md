@@ -25,9 +25,9 @@ src
             └── chromedriver.exe
 
 ### Description 
--**pages**: Contains page classes representing different pages of the El País website. 
--**tests**: Contains the base test class, individual test classes, and utility classes. 
--**resources**: Contains the ChromeDriver executable and BrowserStack configuration YAML file.
+- **pages**: Contains page classes representing different pages of the El País website. 
+- **tests**: Contains the base test class, individual test classes, and utility classes. 
+- **resources**: Contains the ChromeDriver executable and BrowserStack configuration YAML file.
 
 ### Prerequisites 
 - Java Development Kit (JDK) 11 or higher
